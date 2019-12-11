@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3979aae-fd4a-4bad-b01a-f2c522fe5259" name="Default Changelist" comment="" />
+    <list default="true" id="a3979aae-fd4a-4bad-b01a-f2c522fe5259" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/FileExplorer/GUI/GUIController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileExplorer/GUI/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileExplorer/GUI/UI.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Uj1DC2zlkaZfytuhbPlwcYjQA0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +34,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="FileExplorer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -65,29 +80,64 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575855068786</updated>
+      <workItem from="1575862307730" duration="6859000" />
+      <workItem from="1575916859261" duration="8865000" />
+      <workItem from="1576017148165" duration="626000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1822" height="275" key="GridCell.Tab.0.bottom" timestamp="1575855799747">
-      <screen x="52" y="27" width="1868" height="1053" />
+    <state x="552" y="213" width="816" height="732" key="#Intentions" timestamp="1575941431608">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
+    <state x="552" y="213" width="816" height="732" key="#Intentions/0.30.1920.1050@0.30.1920.1050" timestamp="1575941431608" />
+    <state x="765" y="264" key="#com.intellij.ide.util.MemberChooser" timestamp="1575864581867">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="765" y="264" key="#com.intellij.ide.util.MemberChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1575864581867" />
+    <state width="1877" height="174" key="GridCell.Tab.0.bottom" timestamp="1575958213683">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="174" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1575958213683" />
     <state width="1822" height="275" key="GridCell.Tab.0.bottom/52.27.1868.1053@52.27.1868.1053" timestamp="1575855799747" />
-    <state width="1822" height="275" key="GridCell.Tab.0.center" timestamp="1575855799746">
-      <screen x="52" y="27" width="1868" height="1053" />
+    <state width="1877" height="174" key="GridCell.Tab.0.center" timestamp="1575958213683">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
+    <state width="1877" height="174" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1575958213683" />
     <state width="1822" height="275" key="GridCell.Tab.0.center/52.27.1868.1053@52.27.1868.1053" timestamp="1575855799746" />
-    <state width="1822" height="275" key="GridCell.Tab.0.left" timestamp="1575855799746">
-      <screen x="52" y="27" width="1868" height="1053" />
+    <state width="1877" height="174" key="GridCell.Tab.0.left" timestamp="1575958213683">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
+    <state width="1877" height="174" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1575958213683" />
     <state width="1822" height="275" key="GridCell.Tab.0.left/52.27.1868.1053@52.27.1868.1053" timestamp="1575855799746" />
-    <state width="1822" height="275" key="GridCell.Tab.0.right" timestamp="1575855799747">
-      <screen x="52" y="27" width="1868" height="1053" />
+    <state width="1877" height="174" key="GridCell.Tab.0.right" timestamp="1575958213683">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
+    <state width="1877" height="174" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1575958213683" />
     <state width="1822" height="275" key="GridCell.Tab.0.right/52.27.1868.1053@52.27.1868.1053" timestamp="1575855799747" />
-    <state x="642" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1575855817527">
-      <screen x="52" y="27" width="1868" height="1053" />
+    <state x="461" y="197" key="SettingsEditor" timestamp="1575862468787">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
+    <state x="461" y="197" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1575862468787" />
+    <state x="606" y="383" key="com.intellij.ide.util.TipDialog" timestamp="1576017183846">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="606" y="383" key="com.intellij.ide.util.TipDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1576017183846" />
     <state x="642" y="381" key="com.intellij.ide.util.TipDialog/52.27.1868.1053@52.27.1868.1053" timestamp="1575855817527" />
+    <state x="690" y="320" key="extract.method.dialog" timestamp="1575941573619">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="690" y="320" key="extract.method.dialog/0.30.1920.1050@0.30.1920.1050" timestamp="1575941573619" />
+    <state x="342" y="250" key="new project wizard" timestamp="1575944438656">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="342" y="250" key="new project wizard/0.30.1920.1050@0.30.1920.1050" timestamp="1575944438656" />
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1575917623920">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1575917623920" />
   </component>
 </project>
