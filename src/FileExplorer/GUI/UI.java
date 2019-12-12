@@ -10,6 +10,9 @@ public class UI extends JFrame {
 
     //GUI Controller
     GUIController controller;
+    ListItemUI listItem;
+    ItemPanelUI itemPanel;
+    AddressBarUI addressBar;
 
     //Main components
 
@@ -17,12 +20,16 @@ public class UI extends JFrame {
         setTitle("File Explorer");
         setPreferredSize(new Dimension(800, 500));
         setDefaultCloseOperation(EXIT_ON_CLOSE);
-        setResizable(false);
+        setLayout(new BorderLayout());
+        setResizable(true);
         setVisible(true);
 
         controller = new GUIController(this);
 
         initMenuBar();
+        initAddressBar();
+        initListItem();
+        initItemPanel();
 
         pack();
     }
@@ -449,6 +456,31 @@ public class UI extends JFrame {
 
         // Setup Menubar
         setJMenuBar(menuBar);
+
+    }
+
+    void initAddressBar() {
+
+        addressBar = new AddressBarUI();
+
+        add(addressBar, BorderLayout.NORTH);
+
+    }
+
+    void initListItem() {
+
+        listItem = new ListItemUI();
+        listItem.setPreferredSize(new Dimension(200, 500));
+
+        add(listItem, BorderLayout.WEST);
+
+    }
+
+    void initItemPanel() {
+
+        itemPanel = new ItemPanelUI();
+
+        add(itemPanel, BorderLayout.CENTER);
 
     }
 
