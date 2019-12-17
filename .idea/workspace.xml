@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc7a52d2-42d0-4198-994d-d03735dbc8d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FileExplorer/Proccessors/ItemList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FileExplorer/Assets/Icon/back-btn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FileExplorer/Assets/Icon/forward-btn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FileExplorer/GUI/GUIController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileExplorer/Proccessors/GUIController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FileExplorer/GUI/ListItemUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileExplorer/GUI/ListItemUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FileExplorer/GUI/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileExplorer/GUI/UI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +30,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="FileExplorer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -81,14 +75,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576311378728</updated>
+      <workItem from="1576557528220" duration="329000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="794" y="266" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1576550973917">
       <screen x="52" y="27" width="1868" height="1053" />
     </state>
     <state x="794" y="266" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/52.27.1868.1053@52.27.1868.1053" timestamp="1576550973917" />
+    <state x="740" y="309" key="FileChooserDialogImpl" timestamp="1576557877079">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="740" y="309" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1576557877079" />
     <state width="1822" height="190" key="GridCell.Tab.0.bottom" timestamp="1576554662218">
       <screen x="52" y="27" width="1868" height="1053" />
     </state>
