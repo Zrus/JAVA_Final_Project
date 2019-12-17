@@ -1,51 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3979aae-fd4a-4bad-b01a-f2c522fe5259" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FileExplorer/Assets/Icon/back-btn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileExplorer/Assets/Icon/forward-btn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileExplorer/GUI/AddressBarUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileExplorer/GUI/HintTextField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileExplorer/GUI/ItemPanelUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileExplorer/GUI/ListItemUI.java" afterDir="false" />
+    <list default="true" id="cc7a52d2-42d0-4198-994d-d03735dbc8d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/FileExplorer/Proccessors/ItemList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$23.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$26.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$26.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$27.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$28.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$28.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$29.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$29.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$30.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$30.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$31.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$31.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$32.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$32.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$33.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$33.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$34.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$34.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$35.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$35.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$36.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$36.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/09.12.19_Java_Final_Project/FileExplorer/GUI/UI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileExplorer/Assets/Icon/back-btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileExplorer/Assets/Icon/forward-btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileExplorer/GUI/GUIController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileExplorer/Proccessors/GUIController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileExplorer/GUI/ListItemUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileExplorer/GUI/ListItemUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FileExplorer/GUI/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileExplorer/GUI/UI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1Uj1DC2zlkaZfytuhbPlwcYjQA0" />
+  <component name="ProjectId" id="1Uxw6THJazKBjSnIQxoWUCrymdp" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -74,15 +38,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="FileExplorer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FileExplorer.FileExplorer" />
-      <module name="09.12.19_Java_Final_Project" />
+      <module name="JAVA_Final_Project" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="FileExplorer.*" />
@@ -116,72 +76,46 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a3979aae-fd4a-4bad-b01a-f2c522fe5259" name="Default Changelist" comment="" />
-      <created>1575855068786</created>
+      <changelist id="cc7a52d2-42d0-4198-994d-d03735dbc8d8" name="Default Changelist" comment="" />
+      <created>1576311378728</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1575855068786</updated>
-      <workItem from="1575862307730" duration="6859000" />
-      <workItem from="1575916859261" duration="8865000" />
-      <workItem from="1576017148165" duration="3185000" />
-      <workItem from="1576055797370" duration="13000" />
-      <workItem from="1576070928964" duration="4629000" />
-      <workItem from="1576126885969" duration="8783000" />
+      <updated>1576311378728</updated>
     </task>
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="213" width="816" height="732" key="#Intentions" timestamp="1575941431608">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state x="794" y="266" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1576550973917">
+      <screen x="52" y="27" width="1868" height="1053" />
     </state>
-    <state x="552" y="213" width="816" height="732" key="#Intentions/0.30.1920.1050@0.30.1920.1050" timestamp="1575941431608" />
-    <state x="765" y="264" key="#com.intellij.ide.util.MemberChooser" timestamp="1576136386994">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state x="794" y="266" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/52.27.1868.1053@52.27.1868.1053" timestamp="1576550973917" />
+    <state width="1822" height="190" key="GridCell.Tab.0.bottom" timestamp="1576554662218">
+      <screen x="52" y="27" width="1868" height="1053" />
     </state>
-    <state x="765" y="264" key="#com.intellij.ide.util.MemberChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1576136386994" />
-    <state width="1877" height="174" key="GridCell.Tab.0.bottom" timestamp="1576137235535">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state width="1822" height="190" key="GridCell.Tab.0.bottom/52.27.1868.1053@52.27.1868.1053" timestamp="1576554662218" />
+    <state width="1822" height="190" key="GridCell.Tab.0.center" timestamp="1576554662217">
+      <screen x="52" y="27" width="1868" height="1053" />
     </state>
-    <state width="1877" height="174" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1576137235535" />
-    <state width="1822" height="275" key="GridCell.Tab.0.bottom/52.27.1868.1053@52.27.1868.1053" timestamp="1575855799747" />
-    <state width="1877" height="174" key="GridCell.Tab.0.center" timestamp="1576137235535">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state width="1822" height="190" key="GridCell.Tab.0.center/52.27.1868.1053@52.27.1868.1053" timestamp="1576554662217" />
+    <state width="1822" height="190" key="GridCell.Tab.0.left" timestamp="1576554662216">
+      <screen x="52" y="27" width="1868" height="1053" />
     </state>
-    <state width="1877" height="174" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1576137235535" />
-    <state width="1822" height="275" key="GridCell.Tab.0.center/52.27.1868.1053@52.27.1868.1053" timestamp="1575855799746" />
-    <state width="1877" height="174" key="GridCell.Tab.0.left" timestamp="1576137235535">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state width="1822" height="190" key="GridCell.Tab.0.left/52.27.1868.1053@52.27.1868.1053" timestamp="1576554662216" />
+    <state width="1822" height="190" key="GridCell.Tab.0.right" timestamp="1576554662217">
+      <screen x="52" y="27" width="1868" height="1053" />
     </state>
-    <state width="1877" height="174" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1576137235535" />
-    <state width="1822" height="275" key="GridCell.Tab.0.left/52.27.1868.1053@52.27.1868.1053" timestamp="1575855799746" />
-    <state width="1877" height="174" key="GridCell.Tab.0.right" timestamp="1576137235535">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state width="1822" height="190" key="GridCell.Tab.0.right/52.27.1868.1053@52.27.1868.1053" timestamp="1576554662217" />
+    <state x="642" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1576547544142">
+      <screen x="52" y="27" width="1868" height="1053" />
     </state>
-    <state width="1877" height="174" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1576137235535" />
-    <state width="1822" height="275" key="GridCell.Tab.0.right/52.27.1868.1053@52.27.1868.1053" timestamp="1575855799747" />
-    <state x="461" y="197" key="SettingsEditor" timestamp="1575862468787">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state x="642" y="381" key="com.intellij.ide.util.TipDialog/52.27.1868.1053@52.27.1868.1053" timestamp="1576547544142" />
+    <state x="295" y="155" width="1372" height="803" key="new project wizard" timestamp="1576550492887">
+      <screen x="52" y="27" width="1868" height="1053" />
     </state>
-    <state x="461" y="197" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1575862468787" />
-    <state x="606" y="383" key="com.intellij.ide.util.TipDialog" timestamp="1576126882513">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state x="295" y="155" width="1372" height="803" key="new project wizard/52.27.1868.1053@52.27.1868.1053" timestamp="1576550492887" />
+    <state x="649" y="259" key="search.everywhere.popup" timestamp="1576550347976">
+      <screen x="52" y="27" width="1868" height="1053" />
     </state>
-    <state x="606" y="383" key="com.intellij.ide.util.TipDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1576126882513" />
-    <state x="642" y="381" key="com.intellij.ide.util.TipDialog/52.27.1868.1053@52.27.1868.1053" timestamp="1575855817527" />
-    <state x="690" y="320" key="extract.method.dialog" timestamp="1575941573619">
-      <screen x="0" y="30" width="1920" height="1050" />
-    </state>
-    <state x="690" y="320" key="extract.method.dialog/0.30.1920.1050@0.30.1920.1050" timestamp="1575941573619" />
-    <state x="342" y="250" key="new project wizard" timestamp="1575944438656">
-      <screen x="0" y="30" width="1920" height="1050" />
-    </state>
-    <state x="342" y="250" key="new project wizard/0.30.1920.1050@0.30.1920.1050" timestamp="1575944438656" />
-    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1575917623920">
-      <screen x="0" y="30" width="1920" height="1050" />
-    </state>
-    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1575917623920" />
+    <state x="649" y="259" key="search.everywhere.popup/52.27.1868.1053@52.27.1868.1053" timestamp="1576550347976" />
   </component>
 </project>

@@ -1,10 +1,12 @@
 package FileExplorer.GUI;
 
-import javax.management.JMException;
+import FileExplorer.Proccessors.GUIController;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.File;
 
 public class UI extends JFrame {
 
@@ -462,25 +464,28 @@ public class UI extends JFrame {
     void initAddressBar() {
 
         addressBar = new AddressBarUI();
+        addressBar.setBorder(BorderFactory.createRaisedBevelBorder());
 
         add(addressBar, BorderLayout.NORTH);
 
     }
 
-    void initListItem() {
+    public void initListItem() {
 
-        listItem = new ListItemUI();
+        listItem = new ListItemUI(controller.returnItemList());
         listItem.setPreferredSize(new Dimension(200, 500));
+        listItem.setBorder(BorderFactory.createRaisedBevelBorder());
 
-        add(listItem, BorderLayout.WEST);
+        this.add(listItem, BorderLayout.WEST);
 
     }
 
     void initItemPanel() {
 
         itemPanel = new ItemPanelUI();
+        itemPanel.setBorder(BorderFactory.createRaisedBevelBorder());
 
-        add(itemPanel, BorderLayout.CENTER);
+        this.add(itemPanel, BorderLayout.CENTER);
 
     }
 
